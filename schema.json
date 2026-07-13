@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://sureshjayachandhiran.github.io/portfolio/#person",
+  "name": "Suresh Jayachandhiran",
+  "url": "https://sureshjayachandhiran.github.io/portfolio/",
+  "image": "https://sureshjayachandhiran.github.io/portfolio/assets/images/profile.jpg",
+  "jobTitle": "UI/UX Designer & Front-End Developer",
+  "description": "UI/UX Designer and Front-End Developer specializing in responsive websites, WordPress, Shopify, Figma, HTML, CSS, JavaScript, and Bootstrap.",
+  "email": "mailto:leosuresh0114@gmail.com",
+  "telephone": "",
+  "nationality": "Indian",
+  "knowsAbout": [
+    "UI/UX Design",
+    "Front-End Development",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Bootstrap",
+    "WordPress",
+    "Shopify",
+    "Elementor",
+    "Figma",
+    "Adobe XD",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Responsive Web Design",
+    "Git",
+    "GitHub"
+  ],
+  "sameAs": [
+    "https://github.com/SureshJayachandhiran",
+    "https://www.linkedin.com/in/sureshjayachandhiran/"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Future Transformation"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "UI/UX Designer & Front-End Developer"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sureshjayachandhiran.github.io/portfolio/"
+  }
+}
