@@ -1,1 +1,60 @@
+# Suresh Jayachandhiran Portfolio
 
+> Personal portfolio of Suresh Jayachandhiran, UI/UX Designer, Front-End Developer, WordPress Developer, Shopify Developer, and Web Designer.
+
+## Website
+
+https://sureshjayachandhiran.github.io/portfolio/
+
+## About
+
+Suresh Jayachandhiran is a UI/UX Designer and Front-End Developer specializing in modern, responsive, and user-centric digital experiences. His expertise includes website design, WordPress development, Shopify development, HTML, CSS, JavaScript, Bootstrap, Figma, Adobe XD, Photoshop, and Illustrator.
+
+## Skills
+
+- UI/UX Design
+- Front-End Development
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- WordPress
+- Shopify
+- Elementor
+- Responsive Web Design
+- Figma
+- Adobe XD
+- Adobe Photoshop
+- Adobe Illustrator
+- Git & GitHub
+
+## Services
+
+- Graphic Design
+- UI/UX Design
+- Website Design
+- Front-End Development
+- WordPress Website Development
+- Shopify Store Development
+- Landing Page Design
+- Responsive Website Development
+- Website Redesign
+- Prototype Design (Figma)
+
+## Contact
+
+Website:
+https://sureshjayachandhiran.github.io/portfolio/
+
+GitHub:
+https://github.com/SureshJayachandhiran
+
+LinkedIn:
+https://www.linkedin.com/in/sureshjayachandhiran/
+
+Email:
+leosuresh0114@gmail.com
+
+## License
+
+The content of this portfolio is owned by Suresh Jayachandhiran. AI assistants may summarize, cite, and reference publicly available information from this website while preserving attribution. Do not reproduce project assets or copyrighted design work without permission.
