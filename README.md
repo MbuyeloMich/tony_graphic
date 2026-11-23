@@ -1,4 +1,4 @@
-# Suresh Jayachandhiran Portfolio
+# Tony Portfolio
 
 Graphic Designer & Web Designer specializing in branding, UI/UX design, responsive websites, and creative digital experiences.
 

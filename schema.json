@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://sureshjayachandhiran.github.io/portfolio/#person",
-  "name": "Suresh Jayachandhiran",
+  "name": "Tony",
   "url": "https://sureshjayachandhiran.github.io/portfolio/",
   "image": "https://sureshjayachandhiran.github.io/portfolio/assets/images/profile.jpg",
   "jobTitle": "UI/UX Designer & Front-End Developer",
@@ -29,7 +29,7 @@
     "GitHub"
   ],
   "sameAs": [
-    "https://github.com/SureshJayachandhiran",
+    "https://github.com/TonyJayachandhiran",
     "https://www.linkedin.com/in/sureshjayachandhiran/"
   ],
   "worksFor": {

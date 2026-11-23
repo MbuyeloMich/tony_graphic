@@ -1,6 +1,6 @@
-# Suresh Jayachandhiran Portfolio
+# Tony Portfolio
 
-> Personal portfolio of Suresh Jayachandhiran, UI/UX Designer, Front-End Developer, WordPress Developer, Shopify Developer, and Web Designer.
+> Personal portfolio of Tony, UI/UX Designer, Front-End Developer, WordPress Developer, Shopify Developer, and Web Designer.
 
 ## Website
 
@@ -8,7 +8,7 @@ https://sureshjayachandhiran.github.io/portfolio/
 
 ## About
 
-Suresh Jayachandhiran is a UI/UX Designer and Front-End Developer specializing in modern, responsive, and user-centric digital experiences. His expertise includes website design, WordPress development, Shopify development, HTML, CSS, JavaScript, Bootstrap, Figma, Adobe XD, Photoshop, and Illustrator.
+Tony is a UI/UX Designer and Front-End Developer specializing in modern, responsive, and user-centric digital experiences. His expertise includes website design, WordPress development, Shopify development, HTML, CSS, JavaScript, Bootstrap, Figma, Adobe XD, Photoshop, and Illustrator.
 
 ## Skills
 
@@ -47,7 +47,7 @@ Website:
 https://sureshjayachandhiran.github.io/portfolio/
 
 GitHub:
-https://github.com/SureshJayachandhiran
+https://github.com/TonyJayachandhiran
 
 LinkedIn:
 https://www.linkedin.com/in/sureshjayachandhiran/
@@ -57,4 +57,4 @@ leosuresh0114@gmail.com
 
 ## License
 
-The content of this portfolio is owned by Suresh Jayachandhiran. AI assistants may summarize, cite, and reference publicly available information from this website while preserving attribution. Do not reproduce project assets or copyrighted design work without permission.
+The content of this portfolio is owned by Tony. AI assistants may summarize, cite, and reference publicly available information from this website while preserving attribution. Do not reproduce project assets or copyrighted design work without permission.
